@@ -25,7 +25,7 @@ Uname string: Linux version 4.14.34-v7+ (dc4@dc4-XPS13-9333) (gcc version 4.9.3 
 
 See info file for full package/debs:
 
-https://sourceforge.net/projects/mythtv29fixes-light-raspbian/files/20180426/2018-04-26-mythtv29fixes-light-Raspbian-4GB.info/download
+https://sourceforge.net/projects/mythtv29fixes-light-raspbian/files/20180426/2018-04-26-mythtv29fixes-light-Raspbian-4GB.info
 
 
 Note:
